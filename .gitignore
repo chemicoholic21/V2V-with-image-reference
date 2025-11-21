@@ -12,8 +12,7 @@ venv/
 vertex_credentials.json
 
 # Project Directories
-downloads/
-output/
+
 
 # IDE
 .vscode/
