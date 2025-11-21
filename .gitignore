@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables & Secrets
+.env
+vertex_credentials.json
+
+# Project Directories
+downloads/
+output/
+
+# IDE
+.vscode/
+.idea/
